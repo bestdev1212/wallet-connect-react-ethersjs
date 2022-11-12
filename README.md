@@ -1,4 +1,4 @@
-Today we're going to build a simple React / Web3 Dapp that replicates a small portion of the Uniswap v2 interface - specifically, we are building the "account login" button that allows users to connect to a Dapp using their MetaMask extension.
+Today I am going to build a simple React / Web3 Dapp that replicates a small portion of the Uniswap v2 interface - specifically, I am building the "account login" button that allows users to connect to a Dapp using their MetaMask extension.
 
 By the end of the tutorial you will have a working React app that will be able to connect to your MetaMask account, and read your address & ETH balance. If you connect with multiple accounts the interface will change to reflect the active account. 
 
@@ -24,9 +24,9 @@ You'll need MetaMask installed to get this working. If you don't already have it
 
 Once you have MetaMask installed, we are ready to start coding...
 
-## Step 1: Install Our Libraries
+## Step 1: Install Libraries
 
-We'll be using Create React App with a TypeScript template to build our app. We don't use a lot of TypeScript in the tutorial but it's a good way to dip your toes in if you haven't used it before.
+I will be using Create React App with a TypeScript template to build the app. We don't use a lot of TypeScript in the tutorial but it's a good way to dip your toes in if you haven't used it before.
 
 To create the app, open up a console and execute the following instructions:
 
